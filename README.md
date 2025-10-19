@@ -4,7 +4,7 @@ A collection of fun Python console games for beginners and intermediate learners
 
 A collection of fun, beginner-friendly, and intermediate Python games to practice programming, logic, and problem-solving skills.
 
----
+
 
 ##  Overview
 
