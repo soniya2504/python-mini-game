@@ -47,5 +47,5 @@ All games are **self-contained Python scripts** that run in the terminal or comm
 | Word Scramble Game | Unscramble letters to find the correct word. |
 | Calculator Game | Solve random math operations for points. |
 
----
+-------
 
