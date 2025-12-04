@@ -14,6 +14,7 @@ This repository contains **Python console games** divided into two sections:
    - Short games to practice loops, conditionals, user input, and random numbers.  
    - Great for learning basic Python concepts while having fun.
 
+
 2. **Intermediate Games (Advanced Beginner)**  
    - Games with slightly more logic, memory, or math challenges.  
    - Includes 2-player games, timed quizzes, and memory/word puzzles.  
